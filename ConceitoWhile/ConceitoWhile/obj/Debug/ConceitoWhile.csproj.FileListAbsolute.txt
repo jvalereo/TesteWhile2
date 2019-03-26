@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\bin\Debug\ConceitoWhile.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\bin\Debug\ConceitoWhile.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\bin\Debug\ConceitoWhile.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco\ConceitoWhile\ConceitoWhile\obj\Debug\ConceitoWhile.pdb
